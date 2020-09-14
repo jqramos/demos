@@ -20,8 +20,9 @@
     </parent>
     <properties>
         <java.version>11</java.version>
-        <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
-        <spring.version>2.2.5.RELEASE</spring.version>
+        <spring.boot.version>2.3.3.RELEASE</spring.boot.version>
+        <spring.version>2.3.3.RELEASE</spring.version>
+        <postgresql.version>42.2.16</postgresql.version>
     </properties>
 
     <dependencyManagement>
