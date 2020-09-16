@@ -25,6 +25,9 @@
         <postgresql.version>42.2.16</postgresql.version>
         <modelmapper.version>2.3.8</modelmapper.version>
         <lombok.version>1.18.12</lombok.version>
+        <liquibase.version>4.0.0</liquibase.version>
+        <liquibase-hibernate.version>4.0.0</liquibase-hibernate.version>
+        <spring-beans.version>5.2.9.RELEASE</spring-beans.version>
     </properties>
 
     <dependencies>
